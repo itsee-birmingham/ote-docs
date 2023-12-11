@@ -1,0 +1,6 @@
+{
+    "source": {
+        "exclude": ["wfce-ote/wce-ote/rangy-core.js", "wfce-ote/wce-ote/jquery.js"]
+    },
+    "recurseDepth": 1
+}

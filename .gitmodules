@@ -1,0 +1,3 @@
+[submodule "wfce-ote"]
+	path = wfce-ote
+	url = https://github.com/itsee-birmingham/wfce-ote.git
